@@ -2,7 +2,7 @@
 
 This application uses Google's Gemini Flash and Streamlit to generate insights from video files. It allows users to upload a video file, which is then processed using Gemini Flash to extract insights. The insights are then displayed in the application.
 
-![demo](demos/demo.gif)
+![demo](demos/demo2.gif)
 
 ## Usage
 
